@@ -1,17 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Input;
+using Team03.Device;
+using Team03.Util;
+using Team03.Scene;
+using Team03.Def;
 
-using Oikake.Device;
-using Oikake.Def;
-using Oikake.Scene;
-using Oikake.Util;
-
-namespace Oikake.Actor
+namespace Team03.Actor
 {
     /// <summary>
     /// 白玉(プレイヤー)
