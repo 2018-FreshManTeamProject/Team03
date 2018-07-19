@@ -5,9 +5,9 @@ using System.Text;
 using System.Threading.Tasks;
 
 using Microsoft.Xna.Framework;
-using Oikake.Device;
+using Team03.Device;
 
-namespace Oikake.Scene
+namespace Team03.Scene
 {
     class Score
     {

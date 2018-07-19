@@ -5,10 +5,10 @@ using System.Text;
 using System.Threading.Tasks;
 
 using Microsoft.Xna.Framework;
-using Oikake.Def;
-using Oikake.Device;
+using Team03.Def;
+using Team03.Device;
 
-namespace Oikake.Actor.Effects
+namespace Team03.Actor.Effects
 {
     class Particle
     {

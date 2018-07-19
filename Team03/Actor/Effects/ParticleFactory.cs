@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Oikake.Actor.Effects
+namespace Team03.Actor.Effects
 {
     class ParticleFactory
     {

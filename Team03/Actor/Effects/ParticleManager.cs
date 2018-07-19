@@ -1,12 +1,13 @@
 ﻿using Microsoft.Xna.Framework;
-using Oikake.Device;
+using Team03.Device;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Team03.Device;
 
-namespace Oikake.Actor.Effects
+namespace Team03.Actor.Effects
 {
     class ParticleManager
     {

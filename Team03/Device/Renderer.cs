@@ -9,7 +9,7 @@ using Microsoft.Xna.Framework.Content;
 using Microsoft.Xna.Framework.Graphics;
 using System.Diagnostics;//Assert用
 
-namespace Team03.Device
+namespace Oikake.Device
 {
     class Renderer
     {

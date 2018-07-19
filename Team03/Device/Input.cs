@@ -8,7 +8,7 @@ using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Input;
 
 
-namespace Oikake.Device
+namespace Team03.Device
 {
     static class Input
     {

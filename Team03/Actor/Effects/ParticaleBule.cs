@@ -1,13 +1,13 @@
 ﻿using Microsoft.Xna.Framework;
-using Oikake.Device;
-using Oikake.Util;
+using Team03.Device;
+using Team03.Util;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Oikake.Actor.Effects
+namespace Team03.Actor.Effects
 {
     class ParticaleBule : Particle
     {

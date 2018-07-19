@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Oikake.Util
+namespace Team03.Util
 {
     class Range
     {

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using Microsoft.Xna.Framework;
 
 
-namespace Oikake.Actor
+namespace Team03.Actor
 {
     abstract class AI
     {

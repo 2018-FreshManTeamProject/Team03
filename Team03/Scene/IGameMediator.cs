@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-using Oikake.Actor;
+using Team03.Actor;
 
-namespace Oikake.Scene
+namespace Team03.Scene
 {
     /// <summary>
     /// ゲーム仲介者

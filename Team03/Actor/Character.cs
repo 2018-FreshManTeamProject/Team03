@@ -5,10 +5,10 @@ using System.Text;
 using System.Threading.Tasks;
 
 using Microsoft.Xna.Framework;
-using Oikake.Device;
-using Oikake.Scene;
+using Team03.Device;
+using Team03.Scene;
 
-namespace Oikake.Actor
+namespace Team03.Actor
 {
     /// <summary>
     /// 抽象キャラクタークラス

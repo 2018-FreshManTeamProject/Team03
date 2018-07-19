@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Input;
-using Oikake.Device;
+using Team03.Device;
 
-namespace Oikake.Scene
+namespace Team03.Scene
 {
     class Ending : IScene
     {

@@ -4,11 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Team03.Def
+namespace Oikake.Def
 {
-    class Screen
+    /// <summary>
+    /// 静的画面サイズクラス
+    /// </summary>
+    static class Screen
     {
-        public static readonly int Width = 1920;
-        public static readonly int Height = 1080;
+        public static readonly int Width = 800;//画面横幅
+        public static readonly int Height = 600;//画面縦幅
     }
 }

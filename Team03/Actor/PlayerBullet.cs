@@ -1,14 +1,14 @@
 ﻿using Microsoft.Xna.Framework;
-using Oikake.Def;
-using Oikake.Scene;
-using Oikake.Util;
+using Team03.Def;
+using Team03.Scene;
+using Team03.Util;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Oikake.Actor
+namespace Team03.Actor
 {
     class PlayerBullet : Character
     {

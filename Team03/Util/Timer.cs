@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 using Microsoft.Xna.Framework;
 
-namespace Oikake.Util
+namespace Team03.Util
 {
     abstract class Timer
     {

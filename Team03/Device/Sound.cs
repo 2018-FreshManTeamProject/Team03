@@ -9,7 +9,7 @@ using Microsoft.Xna.Framework.Media;//MP3
 using Microsoft.Xna.Framework.Audio;//WAV
 using System.Diagnostics;//Assert
 
-namespace Oikake.Device
+namespace Team03.Device
 {
     class Sound
     {

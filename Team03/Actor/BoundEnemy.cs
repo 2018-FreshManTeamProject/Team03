@@ -5,10 +5,10 @@ using System.Text;
 using System.Threading.Tasks;
 
 using Microsoft.Xna.Framework;
-using Oikake.Def;
-using Oikake.Scene;
+using Team03.Def;
+using Team03.Scene;
 
-namespace Oikake.Actor
+namespace Team03.Actor
 {
     class BoundEnemy : Character
     {

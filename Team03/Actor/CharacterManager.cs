@@ -5,10 +5,10 @@ using System.Text;
 using System.Threading.Tasks;
 
 using Microsoft.Xna.Framework;
-using Oikake.Device;
+using Team03.Device;
 
 
-namespace Oikake.Actor
+namespace Team03.Actor
 {
     class CharacterManager
     {

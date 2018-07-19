@@ -9,7 +9,7 @@ using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Content;
 using System.Diagnostics;
 
-namespace Oikake.Device
+namespace Team03.Device
 {
     sealed class GameDevice
     {
